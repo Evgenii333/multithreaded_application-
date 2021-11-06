@@ -1,4 +1,4 @@
-package com.example.test_prodject_for_playtox_1;
+package com.example.test_prodject_for_playtox_1.model;
 import com.example.test_prodject_for_playtox_1.model.Account;
 import com.example.test_prodject_for_playtox_1.model.TransferMoney;
 import java.util.List;
