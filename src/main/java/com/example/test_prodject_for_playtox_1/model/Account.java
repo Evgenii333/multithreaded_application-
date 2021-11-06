@@ -4,13 +4,13 @@ public class Account {
     public String id = new GeneratedID().generatedID();
     public int money;
 
-    public Account(String id, int money) {
+    public Account( String id, int money) {
         this.id = id;
         this.money = money;
     }
 
-    public Account() {
-    }
+  public Account() {
+   }
 
     public String getId() {
         return id;
