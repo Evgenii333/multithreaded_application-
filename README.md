@@ -1,4 +1,4 @@
-# test_prodject_for_Playtox_1
+# multithreaded_application 
 A multithreaded application simulating the transfer of money from account to account.
 
 When the application is launched, 60 accounts are created. 30 of them store funds (by default, each account has 10_000 USD). After the launch, threads are started, each of which transfers a random value to another account, after which the thread falls asleep for 1-2 seconds.
